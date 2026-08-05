@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm an aspiring AI Engineer who loves turning complex problems into elegant, user-friendly solutions. <br>- 🔭 I'm currently working on SQL and Python<br>- 🌱 I'm currently learning Advanced SQL and AI/ML 
+I'm an aspiring Data Scientist who loves turning complex problems into elegant, user-friendly solutions. <br>- 🔭 I'm currently working on SQL and Python<br>- 🌱 I'm currently learning Advanced SQL and AI/ML 
 
 
 # 💻 Tech Stack:
