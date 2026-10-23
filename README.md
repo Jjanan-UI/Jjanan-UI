@@ -1,10 +1,9 @@
 ## Hi, welcome to my Github 👋
 
-### I'm a Data Scientist-in-the-making with a background in Solar Energy Engineering.
+### I'm a Registered Mechanical Engineer with strong interest in Data Analytics and Design Engineering
 
-🔭 I’m currently working on a real-world data cleaning with Python (Pandas/NumPy) and SQL queries.
+🔭 I’m currently working on a real-world data analysis using Python
 
-🌱 I’m currently leveling up in Advanced SQL and starting my Machine Learning to build predictive models.
 
 ⚡ Previously worked as a Development Engineer II in the solar industry with skills on statistical analysis, process improvements, and qualification of machines and materials.
 
