@@ -1,6 +1,6 @@
 ## Hi, welcome to my Github 👋
 
-### I'm a Registered Mechanical Engineer with strong interest in Data Analytics and Design Engineering
+### I'm a Registered Mechanical Engineer with strong interest in Design Engineering and Data Analytics
 
 🔭 I’m currently working on a real-world data analysis using Python
 
