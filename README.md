@@ -2,7 +2,7 @@
 
 ### I'm a Registered Mechanical Engineer with strong interest in Design Engineering and Data Analytics
 
-🔭 I’m currently working on a real-world data analysis using Python
+🔭 I’m currently working on a data analysis using Python
 
 
 ⚡ Previously worked as a Development Engineer II in the solar industry with skills on statistical analysis, process improvements, and qualification of machines and materials.
