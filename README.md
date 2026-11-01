@@ -1,34 +1,88 @@
-## Hi, welcome to my Github 👋
+<h1 align="center">Hi, I'm Jhon Lito Padit 👋</h1>
 
-### I'm a Registered Mechanical Engineer with strong interest in Design Engineering and Data Analytics
+<p align="center">
+  <b>Registered Mechanical Engineer</b> · SolidWorks · Sheet-Metal Design · Manufacturing Drawings · Product Development
+</p>
 
-🔭 I’m currently working on a data analysis using Python
-
-
-⚡ Previously worked as a Development Engineer II in the solar industry with skills on statistical analysis, process improvements, and qualification of machines and materials.
-
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jjanan-UI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jjanan-UI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jjanan-UI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhon-lito-padit-86b42826a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:paditjhon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Jjanan-UI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jjanan-UI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Jjanan-UI/Jjanan-UI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I Do
 
-Here are some ideas to get you started:
+I build **complete mechanical design packages** — from concept through production-ready drawings — covering **sheet-metal fabrication, mechanical assemblies, and consumer product design**. Each project includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ 3D CAD models &amp; assemblies (SolidWorks)
+- ✅ Detailed fabrication &amp; workshop drawings
+- ✅ 2D flat patterns with bend allowances
+- ✅ Bills of Materials (BOMs) &amp; revision control
+- ✅ Manufacturing-ready documentation
+
+---
+
+## 🚀 Featured Projects
+
+### 1. [Modular Bifold Door System](https://github.com/Jjanan-UI/2-Panel-Bifold-Door)
+*Mechanical Assembly · SolidWorks · Hardware Design*
+
+- Complete 3D CAD assembly (pivots, hinges, brackets, rollers, track system)
+- Kinematic motion study verifying fold path, clearances, and adjustment ranges
+- Modular 2-panel to 4-panel scaling with revision-controlled BOMs and installation instructions
+- **Demonstrates:** Product development, mechanical design, motion analysis, assembly documentation
+
+### 2. [Bifold Door Kit](https://github.com/Jjanan-UI/Bifold-Door-Kit)
+*Product Realization · Component Cataloging · BOM Management*
+
+- Visual product breakdown documenting transition from 3D CAD to shippable hardware kit
+- Part-numbered renders of all custom components (PRT-002 through PRT-011) and fasteners
+- **Demonstrates:** Attention to detail, inventory management, technical documentation, manufacturing readiness
+
+### 3. [Custom Electronics Enclosure](https://github.com/Jjanan-UI/Custom-Electronics-Enclosure)
+*Sheet-Metal Design · DFM · Laser Cutting*
+
+- 3D CAD model of functional enclosure base (2.0mm Aluminum 5052)
+- Corner mounting tabs with counterbores, side-wall cut-outs, internal PCB mounting points
+- 2D flat pattern ready for laser cutting with uniform wall thickness
+- **Demonstrates:** Sheet-metal design, bend allowances, cut-outs, DFM principles, fabrication drawings
+
+### 4. [Custom Electrical Enclosure](https://github.com/Jjanan-UI/Custom-Electrical-Enclosure)
+*Sheet-Metal Design · Ventilation · Flat Pattern*
+
+- 1.5mm CRS steel enclosure with integrated fan grills, louvered ventilation, custom I/O port cut-outs
+- Produced both folded 3D model and 2D flat pattern
+- **Demonstrates:** Bend allowances, manufacturing constraints, sheet-metal proficiency
+
+### 5. [Cellphone Holder](https://github.com/Jjanan-UI/Cellphone-Holder)
+*Minimalist Design · DFM · Single-Piece Fabrication*
+
+- Single-piece, flat-pattern desktop phone stand (3.0mm CRS) with tool-less interlocking tab design
+- 60° ergonomic viewing angle with retention lip
+- **Demonstrates:** DFM principles, 2D-to-3D transformation, laser-cut profile design
+
+---
+
+## 🛠️ Tools &amp; Skills
+
+| **CAD &amp; Drafting** | **Manufacturing** | **Documentation** |
+|---|---|---|
+| SolidWorks (3D modeling, assemblies, sheet metal, flat patterns) | Laser cutting, CNC machining, sheet-metal fabrication | BOMs, revision control, ECN |
+| AutoCAD | Bend allowances, cut-outs, tolerances | Workshop drawings, installation instructions |
+| GD&amp;T, tolerance analysis | DFM/DFA, design validation | Part catalogs, technical reports |
+
+---
+
+## 📊 Quick Stats
+
+- 🔧 **5** complete mechanical design projects
+- 📐 **20+** fabrication drawings &amp; flat patterns
+- 📦 **11+** custom-manufactured components documented
+- 🏆 **PRC Registered** Mechanical Engineer
+- 🎓 **BS Mechanical Engineering** — Technological Institute of the Philippines
+
+---
+
+<p align="center"><i>⭐ Feel free to explore the projects — feedback is always welcome!</i></p>
