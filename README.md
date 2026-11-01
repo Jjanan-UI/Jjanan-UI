@@ -81,7 +81,6 @@ I build **complete mechanical design packages** — from concept through product
 - 📐 **20+** fabrication drawings &amp; flat patterns
 - 📦 **11+** custom-manufactured components documented
 - 🏆 **PRC Registered** Mechanical Engineer
-- 🎓 **BS Mechanical Engineering** — Technological Institute of the Philippines
 
 ---
 
