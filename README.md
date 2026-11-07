@@ -1,4 +1,4 @@
-<h1 align="center">Jhon Lito Padit</h1>
+<h1 align="center">Jhon</h1>
 
 <p align="center">
   <b>Registered Mechanical Engineer</b><br>
@@ -82,15 +82,5 @@ Each project in this portfolio includes:
 | AutoCAD | Bend allowances, cut-outs, tolerances | Workshop drawings, installation instructions |
 | GD&T, tolerance analysis | DFM/DFA, design validation | Part catalogs, technical reports |
 
----
-
-## At a Glance
-
-- 5 complete mechanical design projects
-- 20+ fabrication drawings and flat patterns
-- 11+ custom-manufactured components documented
-- PRC Registered Mechanical Engineer
 
 ---
-
-<p align="center"><i>Feedback and collaboration are always welcome.</i></p>
